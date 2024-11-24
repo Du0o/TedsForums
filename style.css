@@ -173,7 +173,7 @@ header{
 }
 
 .table-head .image{
-    flex: 25%;
+    flex: 15%;
 }
 
 .table-head .subjects{
@@ -197,11 +197,11 @@ header{
     padding: 5px;
     margin: 2px;
     background-color: #115111;
-    flex: 25%;
+    flex: 15%;
 }
 
 .table-row .image img{
-    max-width: 65%;
+    max-width: 85%;
 }
 
 .table-row  .subjects {
